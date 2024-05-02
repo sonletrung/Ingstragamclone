@@ -6,7 +6,7 @@ export const ProfileUse = () => {
         <div className='py-10 w-full'>
             <div className='flex items-center'>
                 <div className='w-[15%]'>
-                    <img className='w-32 h-32 rounded-full' src="" alt="img"/>
+                    <img className='w-32 h-32 rounded-full' src="https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2020/3/12/790444/My-Nhan-Redvelvet6.jpg" alt="img"/>
                 </div>
                 <div className="space-y-5">
                     <div className="flex space-x-10 items-center">
